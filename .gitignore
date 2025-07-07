@@ -1,0 +1,5 @@
+# Editor directories
+.vscode/
+
+# binary
+pomodoro-cli
